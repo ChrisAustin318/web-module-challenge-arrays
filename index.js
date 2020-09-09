@@ -159,13 +159,14 @@ DO NOT USE ADVANCED ARRAY METHODS (i.e. .filter) to solve this problem.
 
 hint - you can use the .includes method to help you solve this */
 
-function filterByWord(){
+function filterByWord(array, flavor){
 
-    /*code here*/
+    array.includes("Chocolate");
+    return [filteredArray]
 
 }
 
-
+console.log(filterByWord);
 
 /* 🧁🍦🍨 STRETCH 🍨🍦🍫*/ 
 
